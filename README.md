@@ -20,7 +20,7 @@ API Communication: RESTful API (Fetch API)
 ✅ View Enrolled Students (Admin can track enrollments)                   
 ✅ RESTful API Integration (Front-end connects via fetch requests)                    
 
-
+![Interface](https://github.com/user-attachments/assets/23a223a3-ed99-418a-abce-6676309b1950)
 📌 Contributions are welcome! If you find this useful, feel free to fork and enhance it.
 
 
