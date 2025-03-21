@@ -14,11 +14,11 @@ API Communication: RESTful API (Fetch API)
 
 ✨ Features
 
-✅ Student Registration & Login   
-✅ View Available Courses (Fetched from the back-end API) 
-✅ Enroll in Courses (Many-to-Many relationship stored in MySQL) 
-✅ View Enrolled Students (Admin can track enrollments) 
-✅ RESTful API Integration (Front-end connects via fetch requests) 
+✅ Student Registration & Login                 
+✅ View Available Courses (Fetched from the back-end API)             
+✅ Enroll in Courses (Many-to-Many relationship stored in MySQL)                
+✅ View Enrolled Students (Admin can track enrollments)                   
+✅ RESTful API Integration (Front-end connects via fetch requests)                    
 
 
 📌 Contributions are welcome! If you find this useful, feel free to fork and enhance it.
