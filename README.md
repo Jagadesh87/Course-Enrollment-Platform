@@ -20,61 +20,6 @@ API Communication: RESTful API (Fetch API)
 ✅ View Enrolled Students (Admin can track enrollments)
 ✅ RESTful API Integration (Front-end connects via fetch requests)
 
-📂 Project Structure
-
-course-registration-system/
-│── backend/                # Spring Boot Application
-│   ├── src/main/java/com/Courses/  # Java Code
-│   ├── src/main/resources/        # Configuration files
-│── frontend/               # HTML, CSS, JavaScript
-│   ├── index.html          # Login & Registration
-│   ├── available.html      # Course List 
-│   ├── enrolled.html       # Enrollment
-│   ├── script.js           # API Calls & UI Logic
-
-🔗 API Endpoints
-
-⿡ User Registration
-
-POST /api/register
-
-{
-  "name": "John Doe",
-  "email": "john@example.com",
-  "coursename": "Java Essentials"
-}
-
-⿢ Login
-
-POST /api/register
-
-⿣ Fetch Courses
-
-GET /api/courses
-
-⿤ Enroll in Course
-
-GET /api/enrolled
-
-💡 Setup & Installation
-
-1. Clone the repository
-
-git clone https://github.com/your-username/course-registration-system.git
-
-
-2. Backend:
-
-Navigate to the backend/ and run the Spring Boot app:
-
-mvn spring-boot: run
-
-Ensure MySQL is running and update application.properties with DB credentials.
-
-
-3. Frontend:
-
-Open frontend/index.html in a browser or deploy via a local server.
 
 📌 Contributions are welcome! If you find this useful, feel free to fork and enhance it.
 
